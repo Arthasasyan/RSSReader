@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"  >
+  <channel>
+    <title>Хабр / Интересные публикации</title>
+    <link>https://habr.com/</link>
+    <description><![CDATA[Интересные публикации на Хабре]]></description>
+    <language>ru</language>
+    <managingEditor>editor@habr.com</managingEditor>
+    <generator>habr.com</generator>
+    <pubDate>Tue, 21 Aug 2018 12:50:24 GMT</pubDate>
+    <lastBuildDate></lastBuildDate>
+      <image>
+        <link>https://habr.com/</link>
+        <url>https://habr.com/images/logo.png</url>
+        <title>Хабр</title>
+      </image>
+
+          
+
+    <item>
+      <title><![CDATA[[Из песочницы] Своя игра за 72 часа: грабли, костыли и альпаки]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420775/</guid>
+      <link>https://habr.com/post/420775/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420775</link>
+      <description><![CDATA[Собрать команду мечты, на одном дыхании запилить игру-шедевр, которая взорвет топы. Или, как подобает гению-одиночке, за ночь сконструировать и выпустить в мир игру-феномен, игру — магнит для денег и славы. Как выяснилось в курилке и на разнообразных IT-митапах, подобные темные фантазии терзают не только младшекурсников, но и солидных дядек. Просто им сложнее в этом признаться. <br/>
+<br/>
+Как быть разработчику, чья карьерная тропа так же далека от геймдева, как Хоббитон от Черных Врат? Отмахнуться от навязчивой идеи и доделать, наконец, ту библиотечку, которая так козырно смотрелась бы в резюме. Но если хоронить собственные мечты — не ваш путь, добро пожаловать под кат. Вас ждет честная история о том, как Пипец от мира IT упражнялся перед зеркалом и набивал синяки. История игры, от набросков до релиза. <br/>
+<br/>
+<img src="https://c.radikal.ru/c35/1808/71/a416267bd488.jpg" alt="image"/><br/>
+ <a href="https://habr.com/post/420775/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420775#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Tue, 21 Aug 2018 06:54:05 GMT</pubDate>
+      <dc:creator>Serine</dc:creator>
+      <category><![CDATA[Разработка игр]]></category><category><![CDATA[Игры и игровые приставки]]></category><category><![CDATA[Дизайн игр]]></category>
+      <category>unity</category><category>indie gamedev</category>
+    </item>
+
+
+
+
+
+      <item>
+      <title><![CDATA[[Перевод] Когда использовать параллельные stream-ы]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420805/</guid>
+      <link>https://habr.com/post/420805/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420805</link>
+      <description><![CDATA[<blockquote><a href="http://gee.cs.oswego.edu/dl/html/StreamParallelGuidance.html">Источник</a><br>
+Авторы: Doug Lea совместно с Brian Goetz, Paul Sandoz, Алексей Шипилёв, Heinz Kabutz, Joe Bowbeer, ...</blockquote><p>Фреймворк <code>java.util.streams</code> содержит управляемые данными (data-driven) операции над коллекциями и другими источниками данных. Большинство потоковых (stream) методов выполняют одну и ту же операцию над каждым из элементов. С помощью метода коллекций <code>parallelStream()</code>, при наличии нескольких ядер, <em>data-driven</em> можно превратить в <em>data-parallel</em>. Но когда это стоит делать?</p> <a href="https://habr.com/post/420805/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420805#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Tue, 21 Aug 2018 09:50:12 GMT</pubDate>
+      <dc:creator>semyong</dc:creator>
+      <category><![CDATA[Параллельное программирование]]></category><category><![CDATA[Java]]></category>
+      <category><![CDATA[java streams]]></category><category><![CDATA[concurrency]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Завтра пройдет первый матч между OpenAI и профессионалами Dota 2. Разбираемся, как работает бот]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420825/</guid>
+      <link>https://habr.com/post/420825/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420825</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/x6/8r/os/x68rosdnvtg9n0t351wvjgxhfpi.jpeg"><br>
+<br>
+Завтра вечером, перед началом очередного дня плей-офф The International, в рамках шоу-активностей пройдет первый показательный матч между профессиональными игроками и ботом OpenAI Five. Информация о матчах появилась на официальном сайте Dota 2 в разделе <a href="http://www.dota2.com/international/schedule/6/0/?l=russian">с расписанием игр плей-офф</a> The International. Всего OpenAI сыграет три матча за три дня с про-игроками. Первая игра состоится в среду, 22 августа, примерно в 18:30-19:00 по МСК (точное время пока не указано). Проследить за противостоянием ботов и профессионалов можно на официальной <a href="https://www.twitch.tv/dota2ti_ru">русскоязычной</a> и <a href="https://www.twitch.tv/dota2ti">англоязычной</a> трансляции на Twitch. <br>
+<br>
+Знаменательно это событие тем, что год назад бот уже «расправился» Даниилом Ишутиным в противостоянии <a href="https://youtu.be/wiOopO9jTZw?t=8m38s">1x1 solo mid mirror SF</a>, а <a href="https://habr.com/post/419407/">несколько недель назад одолел «сборную солянку»</a> из комментаторов и бывших про-игроков. <br>
+<br>
+На этот раз разработке компании, которая спонсируется Илоном Маском и другими видными бизнесменами из IT-сектора предстоит встретиться с более серьезным противником: The International ежегодно собирает лучшие команды мира, так что ботам будет непросто. Пока команда разработчиков не сообщала, будут ли действовать все старые ограничения по пикам и механикам, которые были актуальны в игре против людей в начале месяца, но о них стоит напомнить. <br>
+<br>
+<div class="spoiler"><b class="spoiler_title">Итак, старые правила выглядят следующим образом:</b><div class="spoiler_text"><ul>
+<li>пул из 18 героев в режиме Random Draft (Axe, Crystal Maiden, Death Prophet, Earthshaker, Gyrocopter, Lich, Lion, Necrophos, Queen of Pain, Razor, Riki, Shadow Fiend, Slark, Sniper, Sven, Tidehunter, Viper, или Witch Doctor);</li>
+<li>без Divine Rapier, Bottle;</li>
+<li>без подконтрольных существ и иллюзий;</li>
+<li>матч с пятью курьерами (ими нельзя скаутить и танковать);</li>
+<li>без использования скана.</li>
+</ul><br>
+</div></div><br>
+В комментариях к нашей <a href="https://habr.com/post/419407/">прошлой публикации</a> на эту тему разгорелось множество споров о методах обучения нейросетей. На этот раз мы принесли немного наглядных материалов о том, как работает бот OpenAI и как это выглядит с точки зрения людей. <br> <a href="https://habr.com/post/420825/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420825#habracut">Все интересное по теме OpenAI внутри</a>]]></description>
+      
+      <pubDate>Tue, 21 Aug 2018 11:41:32 GMT</pubDate>
+      <dc:creator>Crossover</dc:creator>
+      <category><![CDATA[Машинное обучение]]></category><category><![CDATA[Киберспорт]]></category><category><![CDATA[Искусственный интеллект]]></category><category><![CDATA[Блог компании Crossover]]></category>
+      <category><![CDATA[машинное обучение]]></category><category><![CDATA[бот]]></category><category><![CDATA[искусственный интелект]]></category><category><![CDATA[киберспорт]]></category><category><![CDATA[разработка ИИ]]></category><category><![CDATA[ИИ]]></category><category><![CDATA[AI]]></category><category><![CDATA[OpenAI]]></category><category><![CDATA[Dota 2]]></category><category><![CDATA[The International]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Security Week 31: Пятьдесят оттенков небезопасности в Android]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420809/</guid>
+      <link>https://habr.com/post/420809/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420809</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/f8/xz/e5/f8xze5vbx8eljxwpwokvjfnswec.jpeg" align="right">Давно мы что-то не писали про безопасность Android. В целом ситуация там вроде бы неплохая: таких серьезных проблем, как трехлетней давности баг <a href="https://threatpost.ru/android-stagefright-exploit-code-released-to-public/11657/">Stagefright</a>, пока не находили. С 2016 года развивается программа Android One, в которой устройства среднего уровня получают единую версию ОС и, соответственно, максимально быструю доставку обновлений безопасности. Скорость доставки апдейтов до традиционных вендоров тоже, по <a href="https://source.android.com/security/reports/Google_Android_Security_2017_Report_Final.pdf">данным</a> Google, ускорилась. <br>
+<br>
+Но не то чтобы стало совсем хорошо. Недавно мы <a href="https://habr.com/company/kaspersky/blog/417933/">писали</a> про необычный Android-смартфон, притворяющийся десятым айфоном, в котором какая-либо защита данных пользователя вовсе отсутствует. Но это экзотика. А вот компания Kryptowire проанализировала (<a href="https://threatpost.ru/25-models-of-android-phones-are-vulnerable-by-default/27748/">новость</a>) прошивки множества обычных смартфонов, которые продаются по всему миру. В 25 разных моделях были обнаружены серьезные прорехи в безопасности. <br> <a href="https://habr.com/post/420809/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420809#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Tue, 21 Aug 2018 10:17:38 GMT</pubDate>
+      <dc:creator>Kaspersky_Lab</dc:creator>
+      <category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Блог компании «Лаборатория Касперского»]]></category>
+      <category><![CDATA[android]]></category><category><![CDATA[уязвимости]]></category><category><![CDATA[бэкдоры]]></category><category><![CDATA[звенья цепи]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Микросервисный фронтенд — современный подход к разделению фронта]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420753/</guid>
+      <link>https://habr.com/post/420753/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420753</link>
+      <description><![CDATA[<div style="text-align:center;"><img src="https://habrastorage.org/webt/ff/bs/ky/ffbskynryldvlmxczvxjwrsxa-a.png" alt="too FAT SPA"></div><br>
+<br>
+<b><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%BD%D0%B0%D1%8F_%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0">Микросервисная архитектура</a></b> уже давно де-факто стала стандартом при разработке больших и сложных систем. Она имеет целый ряд преимуществ: это и строгое деление на модули, и слабая связность, и устойчивость к сбоям, и постепенность выхода в продакшн, и независимое версионирование компонентов.<br>
+<br>
+Правда, зачастую, говоря о микросервисной архитектуре, упоминают только бэкенд-архитектуру, а фронтенд как был, так и остается монолитным. Получается, что мы сделали великолепный бэк, а фронт тянет нас назад.<br>
+<br>
+Сегодня я расскажу вам, как мы делали микросервисный фронт в нашем SaaS-решении и с какими проблемами столкнулись.<br> <a href="https://habr.com/post/420753/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420753#habracut">Подробнее под катом</a>]]></description>
+      
+      <pubDate>Tue, 21 Aug 2018 10:18:47 GMT</pubDate>
+      <dc:creator>ShimON</dc:creator>
+      <category><![CDATA[JavaScript]]></category><category><![CDATA[Angular]]></category><category><![CDATA[Блог компании Netcracker]]></category>
+      <category><![CDATA[netcracker]]></category><category><![CDATA[javascript]]></category><category><![CDATA[angularjs]]></category><category><![CDATA[angular2]]></category><category><![CDATA[microservices]]></category><category><![CDATA[frontend]]></category><category><![CDATA[front-end]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Looking.House — более 150 точек Looking Glass на одном сайте]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420769/</guid>
+      <link>https://habr.com/post/420769/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420769</link>
+      <description><![CDATA[<a href="https://habr.com/company/poiskvps/blog/420769/"><div style="text-align:center;"><img src="https://habrastorage.org/webt/y_/yt/-w/y_yt-wuvgsowt5sze71h8ccc9wm.png"></div></a><br>
+Почти с самого начала существования <a href="https://poiskvps.ru">Поиска VPS</a> на нем был раздел с точками Looking Glass. О нем я <a href="https://habr.com/company/poiskvps/blog/210722">написал</a> в январе 2014 года и на тот момент на карте были расположены 23 точки. Функционал был довольно скудный, точки периодически “умирали”, а времени следить за ними не было. Плюс уже довольно давно есть <a href="https://github.com/telephone/LookingGlass">скрипт</a> для организации своей точки Looking Glass, которым пользуются многие хостеры. Однако у этого скрипта есть 2 недостатка: во-первых, хостерам нужно самостоятельно устанавливать его на сервер (да, это тоже недостаток), а во-вторых, нет централизованной базы, в которой собрана информация обо всех точках от разных хостеров. В этом году я решил заняться данным разделом, и в результате получился сайт, аналогов которого я не видел, и с радостью хочу представить проект <a href="https://looking.house">LOOKING.HOUSE</a>.<br>
+<br>
+<a href="https://habr.com/company/poiskvps/blog/420769/"><img src="https://habrastorage.org/webt/dj/1b/aa/dj1baa37gp3bv9taojxgd3yo1s8.png"></a><br> <a href="https://habr.com/post/420769/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420769#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Tue, 21 Aug 2018 09:33:57 GMT</pubDate>
+      <dc:creator>leonid239</dc:creator>
+      <category><![CDATA[Хостинг]]></category><category><![CDATA[Сетевые технологии]]></category><category><![CDATA[IT-инфраструктура]]></category><category><![CDATA[DNS]]></category><category><![CDATA[Блог компании Поиск VPS]]></category>
+      <category><![CDATA[looking glass]]></category><category><![CDATA[ping]]></category><category><![CDATA[traceroute]]></category><category><![CDATA[mtr]]></category><category><![CDATA[поиск впс]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[MPS 2018.2: тесты генераторов, плагин GitHub, аспект VCS, уведомления о миграции и многое другое]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420799/</guid>
+      <link>https://habr.com/post/420799/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420799</link>
+      <description><![CDATA[Недавно вышла новая версия <a href="https://www.jetbrains.com/mps/whatsnew/">MPS 2018.2</a> со множеством <a href="http://go.jetbrains.com/p0c00Q0MxD0p6VQVMO03ED1">долгожданных изменений</a>. Если коротко, то в этом релизе вас ждут улучшения миграции, новые генерационные планы, GitHub-плагин и не только. Подробности — ниже.<br>
+<br>
+<img src="https://habrastorage.org/webt/hc/yc/6e/hcyc6eam_vfu8zz61lw5sx-h9p8.png" alt="image"><br> <a href="https://habr.com/post/420799/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420799#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Tue, 21 Aug 2018 09:04:57 GMT</pubDate>
+      <dc:creator>advertka</dc:creator>
+      <category><![CDATA[Программирование]]></category><category><![CDATA[Блог компании JetBrains]]></category>
+      <category><![CDATA[jetbrains]]></category><category><![CDATA[mps]]></category><category><![CDATA[dsl]]></category><category><![CDATA[domain-specific language]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Обзор техник реализации игрового ИИ]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420219/</guid>
+      <link>https://habr.com/post/420219/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420219</link>
+      <description><![CDATA[<div style="text-align:center;"><img src="https://habrastorage.org/getpro/habr/post_images/726/4db/e7b/7264dbe7b1834f3602b36deddc723163.png" alt="image"></div><br>
+<h1>Введение</h1><br>
+Эта статья познакомит вас с широким диапазоном концепций искусственного интеллекта в играх («игрового ИИ»), чтобы вы понимали, какие инструменты можно использовать для решения задач ИИ, как они работают совместно и с чего можно начать их реализацию в выбранном движке.<br>
+<br>
+Я буду предполагать, что вы знакомы с видеоиграми, немного разбираетесь в таких математических концепциях, как геометрия, тригонометрия и т.д. Большинство примеров кода будет записано псевдокодом, поэтому вам не потребуется знание какого-то конкретного языка.<br>
+<br>
+<h1>Что же <i>такое</i> «игровой ИИ»?</h1><br>
+Игровой ИИ в основном занимается выбором действий сущности в зависимости от текущих условий. В традиционной литературе по ИИ называет это управлением "<a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B3%D0%B5%D0%BD%D1%82">интеллектуальными агентами</a>". Агентом обычно является персонаж игры, но это может быть и машина, робот или даже нечто более абстрактное — целая группа сущностей, страна или цивилизация. В любом случае это объект, следящий за своим окружением, принимающий на основании него решения и действующий в соответствии с этими решениями. Иногда это называют циклом «восприятие-мышление-действие» (Sense/Think/Act):<br>
+<br>
+<ul>
+<li>Восприятие: агент распознаёт — или ему сообщают — информацию об окружении, которая может влиять на его поведение (например, находящиеся поблизости опасности, собираемые предметы, важные точки и так далее)</li>
+<li>Мышление: агент принимает решение о том, как поступить в ответ (например, решает, достаточно ли безопасно собрать предметы, стоит ли ему сражаться или лучше сначала спрятаться)</li>
+<li>Действие: агент выполняет действия для реализации своих решений (например, начинает двигаться по маршруту к врагу или к предмету, и так далее)</li>
+<li>… затем из-за действий персонажей ситуация изменяется, поэтому цикл должен повториться с новыми данными.</li>
+</ul> <a href="https://habr.com/post/420219/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420219#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Tue, 21 Aug 2018 09:42:51 GMT</pubDate>
+      <dc:creator>PatientZero</dc:creator>
+      <category><![CDATA[Разработка игр]]></category><category><![CDATA[Искусственный интеллект]]></category><category><![CDATA[Дизайн игр]]></category>
+      <category>искусственный интеллект в играх</category><category>artificial intelligence</category><category>игровой ии</category><category>ai</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[SOC – это люди. «Алло, мы ищем таланты» или откуда берутся аналитики цетра мониторинга и реагирования на кибератаки]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420675/</guid>
+      <link>https://habr.com/post/420675/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420675</link>
+      <description><![CDATA[Сегодня даже беглый поиск по hh.ru выдает около 90 разных по задачам и функционалу вакансий с магическим словом «аналитик» и довольно приличными условиями оплаты. Перед глазами многих кандидатов сразу проплывают большие данные и машинное обучение, зарплата начинать плясать сильно выше рынка и заигрывать нулями. Так кто же такие аналитики центра мониторинга, «отвечающие за то, чтобы заказчика не взломали»? Чем они занимаются и что нужно знать и уметь, чтобы попасть на эту позицию?<br>
+<br>
+<img src="https://habrastorage.org/webt/vq/li/r5/vqlir5nciijky61eepumyexps_8.jpeg"><br> <a href="https://habr.com/post/420675/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420675#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Tue, 21 Aug 2018 09:15:40 GMT</pubDate>
+      <dc:creator>SolarSecurity</dc:creator>
+      <category><![CDATA[Управление проектами]]></category><category><![CDATA[Управление персоналом]]></category><category><![CDATA[Карьера в IT-индустрии]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Блог компании Ростелеком-Solar]]></category>
+      <category><![CDATA[solar jsoc]]></category><category><![CDATA[центр мониторинга]]></category><category><![CDATA[карьера]]></category><category><![CDATA[аналитик]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Как устроен рабочий день членов ПК AppsConf]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420145/</guid>
+      <link>https://habr.com/post/420145/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420145</link>
+      <description><![CDATA[В этом году в Программном комитете <a href="http://appsconf.ru/2018">AppsConf</a> супер классные специалисты по мобильной разработке. У всех за плечами большой опыт, работа в компаниях-лидерах и стартапах, корпоративные решения и свои продукты — они знают, что в тренде, и сами могут поделиться многими хитростями.<br>
+<br>
+О конкретных кейсах рабочих проблем будем говорить на конференции, а пока обсудим: рабочие инструменты, тайм-менеджмент, мотивацию продуктовой разработки, роль образования в работе программиста, и другие интересности.<br>
+<br>
+<img src="https://habrastorage.org/webt/qz/zt/hi/qzzthiiwhinhkctowanndi-pmgy.jpeg"><br>
+<br>
+В третий выпуск <a href="https://soundcloud.com/runloop-podcast/run-loop-3-special">Run Loop</a> — подкаста про тех, кто делает продукты своими собственными руками — ведущие решили никого не звать. А рассказать о себе, потому что они тоже делают полезные и крутые вещи.<br>
+<br>
+<table border="1">
+<tbody>
+<tr>
+<td width="205"> <img src="https://habrastorage.org/webt/gb/kz/o7/gbkzo7lqgeqx8i8mwndvyxjvkvu.jpeg"><br>
+ <br>
+<strong>Роман Бусыгин</strong> ведущий разработчик Яндекс музыки для iOS.<br>
+ </td>
+<td width="205"> <img src="https://habrastorage.org/webt/qc/9h/tt/qc9httyv-k1rxvqokzcshliv3to.jpeg"><br>
+ <br>
+<strong><a href="https://habr.com/users/iltsarev/">Илья Царев</a></strong> Head of iOS в Альфа-банке.<br>
+ </td>
+<td width="205"> <img src="https://habrastorage.org/webt/ac/fi/co/acficolxqvhqzmm8eimtqxh0-zo.jpeg"><br>
+ <br>
+<strong>Алексей Милеев</strong> Android разработчик App in the Air.<br>
+ </td>
+</tr>
+</tbody>
+</table> <a href="https://habr.com/post/420145/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420145#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Tue, 21 Aug 2018 08:56:19 GMT</pubDate>
+      <dc:creator>YourDestiny</dc:creator>
+      <category><![CDATA[Разработка под iOS]]></category><category><![CDATA[Разработка под Android]]></category><category><![CDATA[Аналитика мобильных приложений]]></category><category><![CDATA[Блог компании Конференции Олега Бунина (Онтико)]]></category>
+      <category><![CDATA[appsconf]]></category><category><![CDATA[xcode]]></category><category><![CDATA[appcode]]></category><category><![CDATA[pomodoro]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Работа IT-специалистом на Дальнем Востоке — Сахалинская область]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420785/</guid>
+      <link>https://habr.com/post/420785/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420785</link>
+      <description><![CDATA[<p><img src="https://habrastorage.org/webt/2n/cz/ju/2nczjukqfnmrykl1lgtecixtcrs.jpeg"></p><br>
+<p><a href="#kogda-zhe-budet-pro-it">TLDR.</a><br>
+После прочтения статьи “<a href="https://habr.com/post/420247/">Стоит ли ехать It-специалисту на Дальний Восток</a>” у меня возникло желание рассказать про мой родной регион — Сахалинскую область, о чем в комментариях к вышеуказанной статье и сообщил.</p><br>
+<p>Обо мне — мне 25, разработчик, полуадмин, недо-DevOps, стаж работы в IT уже 8 лет, живу в Южно-Сахалинске, переехал в него из маленького городка под названием Оха.</p> <a href="https://habr.com/post/420785/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420785#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Tue, 21 Aug 2018 08:16:45 GMT</pubDate>
+      <dc:creator>POPSuL</dc:creator>
+      <category><![CDATA[Карьера в IT-индустрии]]></category><category><![CDATA[IT-эмиграция]]></category>
+      <category><![CDATA[карьера в it-индустрии]]></category><category><![CDATA[релокация]]></category><category><![CDATA[Южно-Сахалинск]]></category><category><![CDATA[Сахалин]]></category><category><![CDATA[Сахалинская область]]></category><category><![CDATA[грусть и печаль]]></category><category><![CDATA[безысходность и тлен]]></category><category><![CDATA[зачем вы читаете теги?]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] JavaScript: исследование объектов]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420615/</guid>
+      <link>https://habr.com/post/420615/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420615</link>
+      <description><![CDATA[Материал, перевод которого мы сегодня публикуем, посвящён исследованию объектов — одной из ключевых сущностей JavaScript. Он рассчитан, преимущественно, на начинающих разработчиков, которые хотят упорядочить свои знания об объектах.<br>
+<br>
+<a href="https://habr.com/company/ruvds/blog/420615/"><img src="https://habrastorage.org/webt/vo/lg/xb/volgxbgclrhdnqvvi_qdqfc1yna.jpeg"></a><br>
+<br>
+Объекты в JavaScript представляют собой динамические коллекции свойств, которые, кроме того, содержат «скрытое» свойство, представляющее собой прототип объекта. Свойства объектов характеризуются ключами и значениями. Начнём разговор о JS-объектах с ключей.<br> <a href="https://habr.com/post/420615/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420615#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Tue, 21 Aug 2018 08:53:44 GMT</pubDate>
+      <dc:creator>ru_vds</dc:creator>
+      <category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[JavaScript]]></category><category><![CDATA[Блог компании RUVDS.com]]></category>
+      <category>JavaScript</category><category>разработка</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Приглашаем на финал марафона «Найди себя в digital» в офис Mail.Ru Group]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420735/</guid>
+      <link>https://habr.com/post/420735/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420735</link>
+      <description><![CDATA[<p><img src="https://habrastorage.org/webt/ej/_d/xt/ej_dxt-t871xognyvfvy6d5-bnk.jpeg"></p><br>
+<p>Всем привет! Друзья, приглашаем вас 25 августа в офис Mail.Ru Group на финал бесплатного онлайн-марафона, состоящего из лекций, историй успеха и воркшопов по трем направлениям (программирование, дизайн и маркетинг). Участники смогут выбрать наиболее подходящую профессию, получат специальный сертификат о прохождении, возможность бесплатного обучения и подарки от партнеров. </p> <a href="https://habr.com/post/420735/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420735#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Tue, 21 Aug 2018 07:37:09 GMT</pubDate>
+      <dc:creator>mary_arti</dc:creator>
+      <category><![CDATA[Программирование]]></category><category><![CDATA[Карьера в IT-индустрии]]></category><category><![CDATA[Интернет-маркетинг]]></category><category><![CDATA[Дизайн]]></category><category><![CDATA[Блог компании Mail.Ru Group]]></category>
+      <category><![CDATA[geekbrains]]></category><category><![CDATA[digital]]></category><category><![CDATA[дизайн]]></category><category><![CDATA[маркетинг]]></category><category><![CDATA[программирование]]></category><category><![CDATA[mail.ru group]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Анатомия рекомендательных систем. Часть первая]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420499/</guid>
+      <link>https://habr.com/post/420499/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420499</link>
+      <description><![CDATA[Я работаю дата-саентистом в компании <a href="http://cleverdata.ru/">CleverDATA</a>. Мы занимаемся проектами в области машинного обучения, и один из наиболее частых запросов на разработку основанных на машинном обучении маркетинговых решений — это разработка рекомендательных моделей.<br>
+<br>
+В данной статье я расскажу о рекомендательных системах, постараюсь дать максимально полный обзор существующих подходов и на пальцах объясню принципы работы алгоритмов. Часть материала базируется на неплохом курсе по рекомендательным системам лаборатории <a href="https://grouplens.org/datasets/movielens/">MovieLens</a> (которая большинству знакома по одноименному датасету для тестирования рекомендаций), остальное – из личного опыта. Статья состоит из двух частей. В первой описана постановка задачи и дан обзор простых (но популярных) алгоритмов рекомендаций. Во второй статье я расскажу о более продвинутых методах и некоторых практических аспектах реализации.<br>
+<br>
+<a href="https://habr.com/company/lanit/blog/420499/"><div style="text-align:center;"><img src="https://habrastorage.org/getpro/habr/post_images/652/779/d2d/652779d2ded29db0c8412ad892d0df72.jpg"></div></a><a href="https://getwallpapersinhd.com/images/medium/a-hard_desicion-969070.jpg">Источник</a><br> <a href="https://habr.com/post/420499/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420499#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Tue, 21 Aug 2018 08:13:40 GMT</pubDate>
+      <dc:creator>crazyhatter</dc:creator>
+      <category><![CDATA[Машинное обучение]]></category><category><![CDATA[Алгоритмы]]></category><category><![CDATA[Data Mining]]></category><category><![CDATA[Big Data]]></category><category><![CDATA[Блог компании ГК ЛАНИТ]]></category>
+      <category><![CDATA[ланит]]></category><category><![CDATA[cleverdata]]></category><category><![CDATA[алгоритмы]]></category><category><![CDATA[машинное обучение]]></category><category><![CDATA[дата саентист]]></category><category><![CDATA[data scientist]]></category><category><![CDATA[рекомендательные системы]]></category><category><![CDATA[алгоритмы рекомендаций]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[(А|а)рхитектура: почему это нестандартный митап для разработчиков высоконагруженных систем]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420789/</guid>
+      <link>https://habr.com/post/420789/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420789</link>
+      <description><![CDATA[Мы давно стремимся быть максимально открытыми и делиться опытом, пусть и не всегда идеальным. Это помогает не только находить узкие места у себя в разработке, но и пробовать что-то новое.<br>
+<br>
+И если в текстовом формате мы не первый раз рассказываем истории из разработки, то теперь решили организовать митап в сентябре вместе с друзьями из DevGAMM, где будем на реальных кейсах разбирать архитектуру в глобальном понимании — от системных решений и приложений до архитектурных паттернов и стилей. И в этот раз мы решили уйти от традиционного стиля «митапов», поэтому — всего 222 отобранных приглашенных, актуальные темы и крутой нетворкинг на митапе <a href="https://devgamm-talks.pixonic.com">(А|а)рхитектура</a>.<br>
+<br>
+А для тех, кто заинтересовался — под катом FAQ и подробности.<br>
+<br>
+<img src="https://habrastorage.org/webt/if/i9/cn/ifi9cng--l9snivfjunu6nvlwu4.jpeg"><br> <a href="https://habr.com/post/420789/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420789#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Tue, 21 Aug 2018 08:30:57 GMT</pubDate>
+      <dc:creator>azazelis</dc:creator>
+      <category><![CDATA[Серверная оптимизация]]></category><category><![CDATA[Распределённые системы]]></category><category><![CDATA[Разработка игр]]></category><category><![CDATA[Конференции]]></category><category><![CDATA[Блог компании Pixonic]]></category>
+      <category><![CDATA[конференция]]></category><category><![CDATA[митап]]></category><category><![CDATA[серверная разработка]]></category><category><![CDATA[архитектура серверов]]></category><category><![CDATA[архитектура]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] TypeScript 3.0]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420761/</guid>
+      <link>https://habr.com/post/420761/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420761</link>
+      <description><![CDATA[TypeScript 3.0! Да, он вышел, и в нем по-настоящему много нововведений. Под катом вы найдете подробное описание всех новинок последней версии, среди которых режим build, новый тип unknown, значительные изменения в API, улучшения производительности и многое другое. Присоединяйтесь!<br>
+<br>
+<img src="https://habrastorage.org/webt/xl/ep/xt/xlepxtzys_k0mqm0crbje5aekvu.jpeg"> <a href="https://habr.com/post/420761/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420761#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Tue, 21 Aug 2018 07:00:01 GMT</pubDate>
+      <dc:creator>sahsAGU</dc:creator>
+      <category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[TypeScript]]></category><category><![CDATA[JavaScript]]></category><category><![CDATA[Блог компании Microsoft]]></category>
+      <category>microsoft</category><category>typescript</category><category>javascript</category><category>ECMAScript</category><category>Node.js</category><category>typescript 3.0</category><category>обновление</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Почти всё то же самое, только в 10 раз дешевле]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420643/</guid>
+      <link>https://habr.com/post/420643/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420643</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/bb/xe/yy/bbxeyyyp4mf4rfpge47b2lf__nq.png"><br>
+<br>
+<b>«Боюсь, что то, что я делаю, нафиг никому не нужно»</b> — достаточно частый страх ИТ-специалиста. Есть много тупиковых веток технологий, в которых можно долго развиваться, годами сидеть и ковыряться, а потом как-то внезапно остаться у разбитого корыта. Потому что весь мир внезапно выбрал другой фреймворк, другую технологию и другой подход. <br>
+<br>
+Мы с удивлением узнали, что есть много людей, которые хотели бы прийти на конференцию не просто чтобы послушать конкретных людей из интересующей сферы, а чтобы просто понять, кто и что использует. И понимать некоторые разговоры в курилке. И вообще разбираться, что происходит. <br>
+<br>
+Поскольку мы никогда не занимались «лайтовыми» конференциями, это всё привело к некоторому взрыву мозга. <br> <a href="https://habr.com/post/420643/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420643#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Tue, 21 Aug 2018 07:09:08 GMT</pubDate>
+      <dc:creator>BigSolarWolf</dc:creator>
+      <category><![CDATA[Учебный процесс в IT]]></category><category><![CDATA[Конференции]]></category><category><![CDATA[IT-компании]]></category><category><![CDATA[Блог компании JUG.ru Group]]></category>
+      <category><![CDATA[конференция]]></category><category><![CDATA[techtrain]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[8 глубоких идей из книги “Племя менторов” Тима Ферриса]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420705/</guid>
+      <link>https://habr.com/post/420705/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420705</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/9a/lb/sv/9albsvtnfynftx5e9bztvcklfmi.jpeg"><br>
+<i>Книга не издавалась на русском</i><br>
+<br>
+Каждый из нас находится в уникальных условиях, поэтому большинство советов по достижению успеха бесполезны, даже если они исходят из авторитетного источника.<br>
+<br>
+Именно поэтому, я осторожно отношусь к прямым рекомендациям из книг и всегда обращаю внимание на историю автора.<br>
+<br>
+Книга “Tribe of Mentors” другая.<br>
+<br>
+В ней нет единой точки зрения, которую отстаивает автор. Нет и пошагового плана, который обещает достигнуть цели. Да и о целях в ней практически ни слова.<br>
+<br>
+Вместо этого, в книге содержится опыт десятков успешных людей из различных сфер и поколений. Благодаря этому, у вас появляется возможность найти и отобрать фундаментальные принципы людей, чья деятельность схожа с вашей. Именно поэтому, я считаю книгу Тима Ферриса одной из самых объективных и полезных.<br> <a href="https://habr.com/post/420705/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420705#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Mon, 20 Aug 2018 14:43:46 GMT</pubDate>
+      <dc:creator>iskros</dc:creator>
+      <category><![CDATA[Читальный зал]]></category><category><![CDATA[Карьера в IT-индустрии]]></category>
+      <category><![CDATA[книги]]></category><category><![CDATA[саморазвитие]]></category><category><![CDATA[чтение]]></category><category><![CDATA[успех]]></category><category><![CDATA[мысли]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[[Екатеринбург, анонс] UralJS #9 — три доклада про микросервисы, тестирование и логирование ошибок на фронте]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420671/</guid>
+      <link>https://habr.com/post/420671/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420671</link>
+      <description><![CDATA[<p><img src="https://habrastorage.org/webt/qh/3j/4g/qh3j4gb7__koo9i5xyglxfzylcg.jpeg" alt="image"></p><br>
+<p>Закрываем летний сезон! UralJS #9 пройдёт в субботу 25 августа в офисе Контура на Широкой речке. Обсудим, зачем фронтендерам микросервисная архитектура, научим тесты по-настоящему жать на кнопки и разберёмся, как поймать ошибку на компьютере пользователя раньше, чем он позвонит в техподдержку.</p><br>
+<p>Вот подробное описание докладов:</p> <a href="https://habr.com/post/420671/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420671#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Tue, 21 Aug 2018 04:00:01 GMT</pubDate>
+      <dc:creator>tenebricosa</dc:creator>
+      <category><![CDATA[Тестирование веб-сервисов]]></category><category><![CDATA[Разработка веб-сайтов]]></category><category><![CDATA[Конференции]]></category><category><![CDATA[JavaScript]]></category><category><![CDATA[Блог компании Контур]]></category>
+      <category><![CDATA[UralJS]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Data Protection Officer — GDPR обновляет профессию]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420597/</guid>
+      <link>https://habr.com/post/420597/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420597</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/fe/8o/su/fe8osuqprn2uc8ntq4gdyijqrkq.jpeg"><br>
+<br>
+25 мая 2018 года вступил в силу новый <a href="https://eur-lex.europa.eu/eli/reg/2016/679/oj">европейский регламент по защите персональных данных</a> (далее GDPR – General Data Protection Regulation). Этот регламент известен своим экстерриториальным действием: он обязателен к применению во всех странах ЕС, а при некоторых условиях распространяет своё действие и на неевропейские компании или вынуждает их приводить свою деятельность в соответствие требованиям GDPR, чтобы не потерять европейского партнера. Следовательно, российский бизнес тоже может быть затронут новым законом, общий анализ которого доступен <a href="https://habr.com/company/digitalrightscenter/blog/344064/">здесь</a>. GDPR усиливает ранее установленный режим защиты персональных данных, а также вводит новые обязательства для организаций, обрабатывающих такие данные.<br>
+<br>
+В частности, регламент провёл модернизацию уже существовавшей профессии ответственного по защите данных (далее DPO — Data Protection Officer). Эта должность была предусмотрена ещё <a href="https://eur-lex.europa.eu/eli/dir/1995/46/oj">рамочной директивой 1995 года</a>, которая и была заменена новым текстом. Предыдущее законодательство регламентировало деятельность такого специалиста, но не настаивало на его назначении в обязательном порядке.<br> <a href="https://habr.com/post/420597/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420597#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Tue, 21 Aug 2018 06:08:42 GMT</pubDate>
+      <dc:creator>szhbakov</dc:creator>
+      <category><![CDATA[Исследования и прогнозы в IT]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[Бизнес-модели]]></category><category><![CDATA[IT-стандарты]]></category><category><![CDATA[Блог компании Digital Rights Center]]></category>
+      <category><![CDATA[GDPR]]></category><category><![CDATA[DPO]]></category><category><![CDATA[Data Privacy]]></category><category><![CDATA[персональные данные]]></category><category><![CDATA[ЕС]]></category><category><![CDATA[защита персональных данных]]></category>
+    </item>
+
+
+
+
+
+
+
+
+
+
+
+  </channel>
+</rss>

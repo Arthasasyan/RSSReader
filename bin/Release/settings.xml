@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RSSFeeds>
+    <string>https://habr.com/rss/interesting/</string>
+    <string>https://lenta.ru/rss/news</string>
+    <string>http://slazareva.ru/blog/rss/</string>
+  </RSSFeeds>
+  <LastUpdate>2018-08-21T15:50:00.7691282+03:00</LastUpdate>
+  <UpdateTimeInSeconds>3600</UpdateTimeInSeconds>
+</Settings>

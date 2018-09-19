@@ -1,0 +1,17 @@
+C:\Rider\projects\RSSReader\bin\Debug\RSSReader.exe.config
+C:\Rider\projects\RSSReader\bin\Debug\RSSReader.exe
+C:\Rider\projects\RSSReader\bin\Debug\RSSReader.pdb
+C:\Rider\projects\RSSReader\obj\Debug\RSSReader.csprojResolveAssemblyReference.cache
+C:\Rider\projects\RSSReader\obj\Debug\MainWindow.g.cs
+C:\Rider\projects\RSSReader\obj\Debug\App.g.cs
+C:\Rider\projects\RSSReader\obj\Debug\RSSReader_MarkupCompile.cache
+C:\Rider\projects\RSSReader\obj\Debug\RSSReader_MarkupCompile.lref
+C:\Rider\projects\RSSReader\obj\Debug\MainWindow.baml
+C:\Rider\projects\RSSReader\obj\Debug\RSSReader.g.resources
+C:\Rider\projects\RSSReader\obj\Debug\RSSReader.Properties.Resources.resources
+C:\Rider\projects\RSSReader\obj\Debug\RSSReader.csproj.GenerateResource.Cache
+C:\Rider\projects\RSSReader\obj\Debug\RSSReader.csproj.CoreCompileInputs.cache
+C:\Rider\projects\RSSReader\obj\Debug\RSSReader.exe
+C:\Rider\projects\RSSReader\obj\Debug\RSSReader.pdb
+C:\Rider\projects\RSSReader\obj\Debug\FeedAddWindow.g.cs
+C:\Rider\projects\RSSReader\obj\Debug\FeedAddWindow.baml

@@ -1,0 +1,17 @@
+C:\Rider\projects\RSSReader\bin\Release\RSSReader.exe.config
+C:\Rider\projects\RSSReader\bin\Release\RSSReader.exe
+C:\Rider\projects\RSSReader\bin\Release\RSSReader.pdb
+C:\Rider\projects\RSSReader\obj\Release\RSSReader.csprojResolveAssemblyReference.cache
+C:\Rider\projects\RSSReader\obj\Release\FeedAddWindow.g.cs
+C:\Rider\projects\RSSReader\obj\Release\MainWindow.g.cs
+C:\Rider\projects\RSSReader\obj\Release\App.g.cs
+C:\Rider\projects\RSSReader\obj\Release\RSSReader_MarkupCompile.cache
+C:\Rider\projects\RSSReader\obj\Release\RSSReader_MarkupCompile.lref
+C:\Rider\projects\RSSReader\obj\Release\FeedAddWindow.baml
+C:\Rider\projects\RSSReader\obj\Release\MainWindow.baml
+C:\Rider\projects\RSSReader\obj\Release\RSSReader.g.resources
+C:\Rider\projects\RSSReader\obj\Release\RSSReader.Properties.Resources.resources
+C:\Rider\projects\RSSReader\obj\Release\RSSReader.csproj.GenerateResource.Cache
+C:\Rider\projects\RSSReader\obj\Release\RSSReader.csproj.CoreCompileInputs.cache
+C:\Rider\projects\RSSReader\obj\Release\RSSReader.exe
+C:\Rider\projects\RSSReader\obj\Release\RSSReader.pdb

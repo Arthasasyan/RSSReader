@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"  >
+  <channel>
+    <title>Хабр / Интересные публикации</title>
+    <link>https://habr.com/</link>
+    <description><![CDATA[Интересные публикации на Хабре]]></description>
+    <language>ru</language>
+    <managingEditor>editor@habr.com</managingEditor>
+    <generator>habr.com</generator>
+    <pubDate>Sun, 19 Aug 2018 15:21:49 GMT</pubDate>
+    <lastBuildDate></lastBuildDate>
+      <image>
+        <link>https://habr.com/</link>
+        <url>https://habr.com/images/logo.png</url>
+        <title>Хабр</title>
+      </image>
+
+              <item>
+      <title><![CDATA[Разработка сенсорного Z-Wave выключателя на аккумуляторе со светящимися кнопками]]></title>
+      <guid isPermaLink="true">https://habr.com/post/413473/</guid>
+      <link>https://habr.com/post/413473/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=413473</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/8u/uo/9w/8uuo9wx7pyclsobv4bqkxrrokgw.jpeg"><br>
+Второй год я разрабатываю свой уникальный Z-Wave выключатель с сенсорными кнопками, который удовлетворит меня по функционалу, дизайну и стоимости изготовления.<br>
+С самого начала была цель сделать 4-х кнопочный выключатель на аккумуляторе размера 80х80 мм максимально тонким, сенсорные кнопки должны быть большие и при касании светиться целиком, а не только небольшой кружочек, как у всех. В итоге получился стильный тонкий выключатель, способный управлять любыми устройствами умного дома.<br>
+Во время разработки я решал множество задач по схемотехнике, дизайну корпуса и выбору материалов. Особенно интересным является создание самой сенсорной кнопки, которая светится целиком, но обо всем по порядку.<br>
+<br>
+<ul>
+<li>Функционал</li>
+<li>Дизайн корпуса</li>
+<li>Разработка печатной платы</li>
+<li>Изучение рассеивателей света</li>
+<li>Подбор материалов рассеивателя</li>
+<li>Использование</li>
+</ul><br>
+Видео работы сенсорного выключателя в конце.<br> <a href="https://habr.com/post/413473/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=413473#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Sun, 19 Aug 2018 13:38:11 GMT</pubDate>
+      <dc:creator>aivs</dc:creator>
+      <category><![CDATA[Электроника для начинающих]]></category><category><![CDATA[Умный дом]]></category><category><![CDATA[Производство и разработка электроники]]></category><category><![CDATA[Гаджеты]]></category><category><![CDATA[DIY или Сделай сам]]></category>
+      <category><![CDATA[zuno]]></category><category><![CDATA[умный дом]]></category><category><![CDATA[z-wave]]></category><category><![CDATA[razberry]]></category><category><![CDATA[z-uno]]></category><category><![CDATA[arduino]]></category><category><![CDATA[raspberry pi]]></category><category><![CDATA[diy]]></category><category><![CDATA[производство электроники]]></category><category><![CDATA[микроконтроллеры]]></category><category><![CDATA[умный дом z-wave]]></category><category><![CDATA[автоматизация дома]]></category><category><![CDATA[ttp223]]></category><category><![CDATA[ttp224]]></category><category><![CDATA[AT42QT1011]]></category><category><![CDATA[TP4056]]></category><category><![CDATA[сенсорный выключатель]]></category><category><![CDATA[touch sensor]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+    <item>
+      <title><![CDATA[[Из песочницы] Как я написал и защитил диплом по DEVOPS и инженерным практикам в 1С с нуля]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420547/</guid>
+      <link>https://habr.com/post/420547/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420547</link>
+      <description><![CDATA[<h3 id="predislovie">Предисловие</h3><br>
+<p>​Все началось более 2-х лет тому назад, и я перешел на 4-й курс специальности "Бизнес-информатика" Томского Государственного Университета Систем Управления и Радиоэлектроники (ТУСУР). До окончания ВУЗА оставалась не много времени, и перспектива написания диплома уже маячила перед глазами. Мысль о покупке готовой работы не рассматривалась. Хотелось реально что-то сделать самому. Вариантов тем дипломных проектов рассматривалось много: и проекты конфигураций для автоматизации производственных нужд компании и проект внедрения Документооборота своими силами на 3 территориальные единицы и более 500 активных пользователей и внедрение ЭДО. Короче много всего что было в голове, но ничего из этого не вдохновляло. А это было главное. </p> <a href="https://habr.com/post/420547/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420547#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Sun, 19 Aug 2018 07:25:24 GMT</pubDate>
+      <dc:creator>nlruslan</dc:creator>
+      <category><![CDATA[Управление проектами]]></category><category><![CDATA[Тестирование IT-систем]]></category><category><![CDATA[Совершенный код]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[DevOps]]></category>
+      <category>devops</category><category>1c:предприятие</category><category>TDD</category><category>BDD</category><category>Allure</category><category>CICD</category><category>IDEF0</category><category>инженерные практики</category><category>имплементация</category><category>ТУСУР</category>
+    </item>
+
+
+
+
+
+      <item>
+      <title><![CDATA[Дайджест интересных материалов для мобильного разработчика #266 (13 августа— 19 августа)]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420577/</guid>
+      <link>https://habr.com/post/420577/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420577</link>
+      <description><![CDATA[На этой неделе мы снова делали приложения для Ассистента Google, обсуждали Google Pay и плохих дизайнеров, разрабатывали смешанную реальность и PWA, погружались в геймдизайн и маркетплейс продуктов. Все это и многое другое в нашем новом дайджесте!<br>
+<br>
+<img src="https://habrastorage.org/getpro/habr/post_images/ea4/08c/be7/ea408cbe7231797b43c96ccec6c80667.png"> <a href="https://habr.com/post/420577/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420577#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Sun, 19 Aug 2018 11:32:42 GMT</pubDate>
+      <dc:creator>EverydayTools</dc:creator>
+      <category><![CDATA[Разработка под iOS]]></category><category><![CDATA[Разработка под Android]]></category><category><![CDATA[Разработка мобильных приложений]]></category><category><![CDATA[Разработка игр]]></category><category><![CDATA[Блог компании Everyday Tools]]></category>
+      <category><![CDATA[app store]]></category><category><![CDATA[apple]]></category><category><![CDATA[ios12]]></category><category><![CDATA[swift]]></category><category><![CDATA[google]]></category><category><![CDATA[kotlin]]></category><category><![CDATA[геймдизайн]]></category><category><![CDATA[ux дизайн]]></category><category><![CDATA[аналитика]]></category><category><![CDATA[маркетинг мобильных приложений]]></category><category><![CDATA[искусственный интеллект]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] 24-ядерный CPU, а я не могу набрать электронное письмо]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420579/</guid>
+      <link>https://habr.com/post/420579/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420579</link>
+      <description><![CDATA[Я не искал неприятностей. Не запускал процесс сборки Chrome <a href="https://randomascii.wordpress.com/2017/07/09/24-core-cpu-and-i-cant-move-my-mouse/">тысячу раз за выходные</a>, а только занимался самыми обычными задачами 21-го века — просто писал электронное письмо в 10:30 утра. И вдруг Gmail подвис. Я продолжал печатать несколько секунд, но на экране не появлялось никаких символов. Затем внезапно Gmail отвис — и я вернулся к своему <i>очень важному</i> письму. Но впоследствии всё повторилось, только на этот раз Gmail ещё дольше не отвечал запросы. <a href="https://quoteinvestigator.com/2015/03/02/eureka-funny/">Это странно</a>…<br>
+<br>
+Трудно устоять перед возможностью провести хорошее расследование, но в данном случае вызов особенно силён. Ведь я в Google работаю над улучшением производительности Chrome для Windows. Обнаружить причину зависания — моя <i>работа</i>. И после множества фальстартов и тяжёлых усилий мне всё-таки удалось выяснить, как Chrome, Gmail, Windows и наш IT-отдел вместе помешали мне набрать электронное письмо. По ходу дела нашёлся способ сэкономить значительное количество памяти для некоторых веб-страниц в Chrome.<br>
+<br>
+В расследовании оказалось так много нюансов, что я оставлю некоторые для другой статьи, а сейчас полностью объясню причины подвисаний.<br> <a href="https://habr.com/post/420579/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420579#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Sun, 19 Aug 2018 12:15:55 GMT</pubDate>
+      <dc:creator>m1rko</dc:creator>
+      <category><![CDATA[Тестирование IT-систем]]></category><category><![CDATA[Системное программирование]]></category><category><![CDATA[Разработка под Windows]]></category><category><![CDATA[Браузеры]]></category><category><![CDATA[Google Chrome]]></category>
+      <category>Gmail</category><category>Windows</category><category>CFG</category>
+    </item>
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Learn OpenGL. Урок 5.9 — Отложенный рендеринг]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420565/</guid>
+      <link>https://habr.com/post/420565/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420565</link>
+      <description><![CDATA[<img src="https://habrastorage.org/getpro/habr/post_images/20f/e6a/5f3/20fe6a5f38cfacad9ea8355ca097e8f4.png" width="200" align="left"><br>
+<p>В предыдущих статьях мы использовали прямое освещение <em>(forward rendering или forward shading)</em>. Это простой подход, при котором мы рисуем объект с учётом всех источников света, потом рисуем следующий объект вместе с всем освещением на нём, и так для каждого объекта. Это достаточно просто понять и реализовать, но вместе с тем получается довольно медленно с точки зрения производительности: для каждого объекта придётся перебрать все источники света. Кроме того, прямое освещение работает неэффективно на сценах с большим количество перекрывающих друг друга объектов, так как большая часть вычислений пиксельного шейдера не пригодится и будет перезаписана значениями для более близких объектов.</p><br>
+<p>Отложенное освещение или отложенный рендеринг (deferred shading или deferred rendering) обходит эту проблему и кардинально меняет то, как мы рисуем объекты. Это даёт новые возможности значительно оптимизировать сцены с большим количеством источников света, позволяя рисовать сотни и даже тысячи источников света с приемлемой скоростью. Ниже изображена сцена с 1847 точечными источниками света, нарисовання с помощью отложенного освещения (изображение предоставил Hannes Nevalainen). Что-то подобное было бы невозможно при прямом расчёте освещения:</p><br>
+<p><img src="https://habrastorage.org/getpro/habr/post_images/9f2/a49/463/9f2a49463bee47aa077aa59b8dfc7ca6.png" alt="img1"></p> <a href="https://habr.com/post/420565/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420565#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Sun, 19 Aug 2018 11:48:00 GMT</pubDate>
+      <dc:creator>lgorSL</dc:creator>
+      <category><![CDATA[Разработка игр]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[C++]]></category>
+      <category>opengl</category><category>opengl 3</category><category>deferred lighting</category><category>deferred shading</category><category>learnopengl.com</category>
+    </item>
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Алан Кей: «Компьютеры — это инструменты, музыка которых — идеи»]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420555/</guid>
+      <link>https://habr.com/post/420555/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420555</link>
+      <description><![CDATA[<blockquote><i>Самое большое препятствие улучшения образования для детей (с компьютерами или без них) — это совершенно обедневшее воображение большинства взрослых.</i><br>
+ — Алан Кей</blockquote><br>
+<img src="https://habrastorage.org/webt/oa/ko/qh/oakoqhzmsfkmv6ajmpbpijrssp8.jpeg" alt="image"><br>
+<br>
+Откопал статью Алана Кея 2009 года. Содержание — бомба и напалм, особенно на фоне большинства сегодняшних ИБД в области образования.<br>
+<br>
+<b>Вопрос:</b> <b>Вы часто говорите, что компьютерная революция еще не произошла. Что вы имеете в виду?</b><br>
+<br>
+<b>Ответ:</b> Если вы сегодня посмотрите прищурившись на большинство персональных компьютеров, вы увидите, что мы в основном просто автоматизируем бумагу — используем цифровые версии документов и почты. Но, как и в случае с изобретением печатного станка, в компьютере интересно то, что он позволяет вам использовать новые способы представления вещей, новые способы споров о разных вещах и новые способы понимания информации в момент ее восприятия.<br>
+<br>
+Большинство школ определяют компьютерную грамотность как умение использовать Microsoft Office и, возможно, немного заниматься веб-дизайном. Они упускают суть. Это все равно что сказать: «Если вы знаете, за какой конец книги нужно держаться, и вы знаете, как перейти к третьей главе, тогда вы грамотны».<br>
+<br>
+Литература — это прежде всего наличие достаточно важных <i>идей</i> для обсуждения и записи в той или иной форме. Поэтому вы должны задать себе вопрос: «Какая литература лучше всего подходит для записи на компьютере?» Один из ответов — создание динамического моделирования некоторой идеи, которая, по вашему мнению, важна, симуляции, с которой вы можете играть, и на основе которой вы можете учиться.<br> <a href="https://habr.com/post/420555/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420555#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Sun, 19 Aug 2018 09:29:15 GMT</pubDate>
+      <dc:creator>MagisterLudi</dc:creator>
+      <category><![CDATA[Учебный процесс в IT]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Математика]]></category><category><![CDATA[История IT]]></category><category><![CDATA[Блог компании Philtech-акселератор]]></category>
+      <category>Алан Кей</category><category>образование</category><category>компьютеры</category><category>филантропия</category><category>филтех</category><category>глобальное мышление</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Теория счастья. Закон зебры и чужой очереди]]></title>
+      <guid isPermaLink="true">https://habr.com/post/416907/</guid>
+      <link>https://habr.com/post/416907/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=416907</link>
+      <description><![CDATA[<i>Продолжаю знакомить читателей Хабра с главами из своей книжки «Теория счастья» с подзаголовком «Математические основы законов подлости». Это ещё не изданная научно-популярная книжка, очень неформально рассказывающая о том, как математика позволяет с новой степенью осознанности взглянуть на мир и жизнь людей. Она для тех кому интересна наука и для тех, кому интересна жизнь. А поскольку жизнь наша сложна и, по большому счёту, непредсказуема, упор в книжке делается, в основном, на теорию вероятностей и математическую статистику. Здесь не доказываются теоремы и не даются основы науки, это ни в коем случае не учебник, а то, что называется recreational science. Но именно такой почти игровой подход позволяет развить интуицию, скрасить яркими примерами лекции для студентов и, наконец, объяснить нематематикам и нашим детям, что же такого интересного мы нашли в своей сухой науке.</i><br>
+<br>
+Опубликованные главы:<br>
+<br>
+ •  <a href="https://habr.com/post/416941/">Введение в мерфологию</a><br>
+ •  <a href="https://habr.com/post/416551/">Закон арбузной корки и нормальность ненормальности</a><br>
+<br>
+<img src="https://habrastorage.org/webt/nc/rz/ek/ncrzekvpzexsdrdv9uqzkbb-npm.jpeg"><br>
+<br>
+Мы поговорим о фатуме, землетрясениях, очередях и замечательных процессах: пуассоновском потоке, случайном блуждании и немного о цепях Маркова.<br> <a href="https://habr.com/post/416907/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=416907#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Sun, 19 Aug 2018 04:08:52 GMT</pubDate>
+      <dc:creator>samsergey</dc:creator>
+      <category><![CDATA[Научно-популярное]]></category><category><![CDATA[Математика]]></category><category><![CDATA[Занимательные задачки]]></category>
+      <category><![CDATA[теория счастья]]></category><category><![CDATA[теория вероятности и мат статистика]]></category><category><![CDATA[занимательная математика]]></category><category><![CDATA[recreational science]]></category><category><![CDATA[пуассоновский процесс]]></category><category><![CDATA[случайное блуждание]]></category><category><![CDATA[цепи Маркова]]></category><category><![CDATA[кривая Лоренца]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Эмуляция литералов свойств с Java 8 Method Reference]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420533/</guid>
+      <link>https://habr.com/post/420533/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420533</link>
+      <description><![CDATA[<div style="text-align:center;"><img src="https://habrastorage.org/webt/rx/cy/ut/rxcyutfwkaqvjicfkhp78xtv_ts.png"></div><br>
+<i>От переводчика: к переводу этой статьи меня подтолкнула обида от отсутствия оператора nameOf в языке Java. Для нетерпеливых — в конце статьи есть готовая реализация в исходниках и бинарниках.</i><br>
+<br>
+Одна из вещей, которой часто не хватает разработчикам библиотек в Java, — литералы свойств. В этом посте я покажу, как можно креативно воспользоваться Method Reference из Java 8 для эмуляции литералов свойств с помощью генерации байт-кода.<br>
+<br>
+Сродни литералам классов (например, <code>Customer.class</code>), литералы свойств позволили бы ссылаться на свойства классов-бинов типобезопасно. Это было бы полезно для дизайна API, где есть необходимость выполнять действия над свойствами или каким-то образом конфигурировать их.<br>
+<br>
+<i>От переводчика: Под катом разбираем как из подручных средств это реализовать.</i><br> <a href="https://habr.com/post/420533/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420533#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Sat, 18 Aug 2018 13:56:55 GMT</pubDate>
+      <dc:creator>jreznot</dc:creator>
+      <category><![CDATA[Ненормальное программирование]]></category><category><![CDATA[Java]]></category>
+      <category>java</category><category>nameof</category><category>metaprogramming</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Ранняя вселенная 6. Динамика однородной расширяющейся вселенной, часть 2]]></title>
+      <guid isPermaLink="true">https://habr.com/post/419673/</guid>
+      <link>https://habr.com/post/419673/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=419673</link>
+      <description><![CDATA[На сайте бесплатных лекций MIT OpenCourseWare выложен <a href="https://ocw.mit.edu/courses/physics/8-286-the-early-universe-fall-2013/">курс лекций по космологии</a> Алана Гуса, одного из создателей инфляционной модели вселенной.<br>
+<br>
+Вашему вниманию предлагается перевод шестой лекции: «Динамика однородной расширяющейся вселенной, часть 2».<br> <a href="https://habr.com/post/419673/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=419673#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Sat, 18 Aug 2018 14:30:45 GMT</pubDate>
+      <dc:creator>andrew526d</dc:creator>
+      <category><![CDATA[Физика]]></category><category><![CDATA[Научно-популярное]]></category><category><![CDATA[Астрономия]]></category>
+      <category><![CDATA[космология]]></category><category><![CDATA[расширяющаяся вселенная]]></category><category><![CDATA[перевод лекций]]></category><category><![CDATA[mit]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+    <item>
+      <title><![CDATA[[Из песочницы] Исследователи из Карнеги-Меллона создали пока самые правдоподобные «deepfakes»]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420541/</guid>
+      <link>https://habr.com/post/420541/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420541</link>
+      <description><![CDATA[Когда-либо слышали о «deepfakes»? ИИ, который накладывает лицо одного человека на тело другого, использовали для замены Харрисона Форда на Николаса Кейджа в бесчисленных видеоклипах, а также и для более гнусных целей: знаменитости без их ведома появились в порно и пропаганде. Теперь, к лучшему или худшему, исследователи из Университета Carnegie Mellon разработали новую, более мощную и универсальную систему.<br/>
+<br/>
+<div class="oembed"><div><div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;"><iframe src="https://www.youtube.com/embed/UXjWWy6iTVo?rel=0&amp;showinfo=1&amp;hl=en-US" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen scrolling="no"></iframe></div></div></div> <a href="https://habr.com/post/420541/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420541#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Sat, 18 Aug 2018 19:21:14 GMT</pubDate>
+      <dc:creator>Komesk</dc:creator>
+      <category><![CDATA[Машинное обучение]]></category><category><![CDATA[Искусственный интеллект]]></category><category><![CDATA[Будущее здесь]]></category>
+      <category>GAN</category><category>nnet</category><category>ai</category>
+    </item>
+
+
+
+
+
+      <item>
+      <title><![CDATA[Теперь официально: TLS 1.3 признан стандартом]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420521/</guid>
+      <link>https://habr.com/post/420521/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420521</link>
+      <description><![CDATA[Ранее мы <a href="https://habr.com/company/it-grad/blog/352668/">писали</a>, что Инженерный совет Интернета (IETF) одобрил новую версию TLS — 1.3. На прошлой неделе протокол был признан стандартом. Сегодня — поговорим о его возможностях.<br>
+<br>
+<a href="https://habr.com/company/it-grad/blog/420521/"><img src="https://habrastorage.org/webt/ly/5x/d3/ly5xd3wun2-lwlrpsdiyk1fjock.jpeg"></a> <a href="https://habr.com/post/420521/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420521#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Sat, 18 Aug 2018 14:06:21 GMT</pubDate>
+      <dc:creator>it_man</dc:creator>
+      <category><![CDATA[Разработка под e-commerce]]></category><category><![CDATA[Информационная безопасность]]></category><category><![CDATA[IT-стандарты]]></category><category><![CDATA[Блог компании ИТ-ГРАД]]></category>
+      <category><![CDATA[ит-град]]></category><category><![CDATA[tls]]></category><category><![CDATA[tls 1.3]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Очередной сказ о том, как на Мегафоне сравнительно честно отнимают деньги]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420537/</guid>
+      <link>https://habr.com/post/420537/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420537</link>
+      <description><![CDATA[upd: <i>уточняю: это не жалоба, а статья-предупреждение, проверьте свои детализации</i><br>
+<br>
+Дело было вечером, делать было нечего. Сидел я значит на диване, никого не трогал. На телефон (который у меня только для звонков и раздачи интернета) приходит пара смсок с разницей в 2 минуты. Поборов лень, я встал с дивана, подошел к телефону и включил экран. От увиденного я впал в ступор.<br>
+<br>
+Вероломно и без объявления войны в 20:22 по местному времени мне пришла смс с номера 5151: "<i>Подписка Игроклуб Gamifive оформлена. Управление подпиской: <a href="http://moy-m-portal.ru/moi_podpiski">moy-m-portal.ru/moi_podpiski</a></i>". Следующая смска была получена с номера 5591 в 20:24 с содержанием "<i>Приветствует Вас в игровом клубе Gamifive! Сотни увлекательных игр для вашего удовольствия! Играйте без остановки. Просто заходите на <a href="http://gamifive.ru">gamifive.ru</a> Пароль для авторизации: &lt;пароль из 4-х цифр&gt; Возникнут вопросы — звоните 88005054081 (бесплатно)</i>".<br> <a href="https://habr.com/post/420537/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420537#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Sat, 18 Aug 2018 16:18:26 GMT</pubDate>
+      <dc:creator>tendium</dc:creator>
+      <category><![CDATA[Сотовая связь]]></category>
+      <category><![CDATA[мегафон]]></category><category><![CDATA[деньги]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Сети для самых матёрых. Часть пятнадцатая. QoS]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420525/</guid>
+      <link>https://habr.com/post/420525/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420525</link>
+      <description><![CDATA[СДСМ-15. Про QoS. Теперь с возможностью <a href="https://linkmeup.gitbook.io/sdsm/">Pull Request'ов</a>.<br>
+<br>
+И вот мы дошли до темы QoS.<br>
+<br>
+Знаете почему только сейчас и почему это будет закрывающая статья всего курса СДСМ? Потому что QoS необычайно сложен. Сложнее всего, что было прежде в цикле. <br>
+<br>
+Это не какой-то магический архиватор, который ловко сожмёт трафик на лету и пропихнёт ваш гигабит в стомегабитный аплинк. QoS это про то как пожертвовать чем-то ненужным, впихивая невпихуемое в рамки дозволенного.<br>
+<br>
+QoS настолько опутан аурой шаманизма и недоступности, что все молодые (и не только) инженеры стараются тщательно игнорировать его существование, считая, что достаточно закидать проблемы деньгами, и бесконечно расширяя линки. Правда пока они не осознают, что при таком подходе их неизбежно ждёт провал. Или бизнес начнёт задавать неудобные вопросы, или возникнет масса проблем, почти не связанных с шириной канала, зато прямо зависящих от эффективности его использования. Ага, VoIP активно машет ручкой из-за кулис, а мультикастовый трафик ехидно поглаживает вас по спинке.<br>
+<br>
+Поэтому давайте просто осознаем, что QoS это обязательно, познать его придётся так или иначе, и почему-бы не начать сейчас, в спокойной обстановке.<br>
+<br>
+<img src="https://habrastorage.org/webt/sc/of/k6/scofk6lx2y49bzisp0pwsnrsywg.jpeg"> <a href="https://habr.com/post/420525/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420525#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Sat, 18 Aug 2018 10:14:49 GMT</pubDate>
+      <dc:creator>eucariot</dc:creator>
+      <category><![CDATA[Стандарты связи]]></category><category><![CDATA[Системное администрирование]]></category><category><![CDATA[Сетевые технологии]]></category>
+      <category><![CDATA[сети для самых маленьких]]></category>
+    </item>
+
+
+
+
+
+
+
+      <item>
+      <title><![CDATA[Улыбка может звучать и это заразительно]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420527/</guid>
+      <link>https://habr.com/post/420527/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420527</link>
+      <description><![CDATA[В последние годы учёные активно изучают взаимосвязь улыбки и звука. Согласно некоторым исследованиям, люди способны воспринимать улыбку не только визуально, но и акустически.<br>
+<br>
+Подробнее об этом рассказываем под катом.<br>
+<br>
+<font color="#A9A9A9"><img src="https://habrastorage.org/webt/xq/5o/_r/xq5o_rmc8w8juvbckkxdgn5adaw.png"> Наш микроформат — <a href="https://t.me/audiomaniaRU/">Telegram-канал</a> «Аудиомании»</font><br>
+<br>
+<a href="https://habr.com/company/audiomania/blog/420527/"><img src="https://habrastorage.org/webt/fu/kg/nv/fukgnvfl17toc8gqpbnv-8rhhdu.jpeg"></a> <a href="https://habr.com/post/420527/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420527#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Sat, 18 Aug 2018 10:25:29 GMT</pubDate>
+      <dc:creator>Audioman</dc:creator>
+      <category><![CDATA[Научно-популярное]]></category><category><![CDATA[Мозг]]></category><category><![CDATA[Здоровье гика]]></category><category><![CDATA[Звук]]></category><category><![CDATA[Блог компании Аудиомания]]></category>
+      <category><![CDATA[аудиомания]]></category><category><![CDATA[звук]]></category><category><![CDATA[мозг]]></category><category><![CDATA[улыбка]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+
+
+    <item>
+      <title><![CDATA[[Перевод] Разработан новый моментальный анализ крови на наличие повреждений мозга]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420317/</guid>
+      <link>https://habr.com/post/420317/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420317</link>
+      <description><![CDATA[<h2>Анализ проверяет наличие двух белков в капле крови, чтобы узнать, нужно ли пациенту делать компьютерную томографию</h2><br>
+<img src="https://habrastorage.org/getpro/habr/post_images/163/6d9/9b3/1636d99b3a1a16c87b81238eae35a892.jpg"><br>
+<br>
+Когда человек ударяется головой в падении, во время спортивных игр, в дорожно-транспортном происшествии или в другом случае, его часто отвозят в больницу, чтобы сделать компьютерную томографию – посмотреть, нет ли на мозге повреждений или синяков.<br>
+<br>
+У 90% людей томография <a href="https://jamanetwork.com/journals/jama/fullarticle/201595">даёт отрицательный результат</a>, даже если потом у них находят лёгкое повреждение мозга, например, сотрясение. Следовательно, требуются другие инструменты для точной диагностики несильных травм мозга. Кроме того, процедура КТ может <a href="https://www.jacr.org/article/S1546-1440(14)00890-4/fulltext">стоить до $2000</a>, и подвергает человека облучению.<br>
+<br>
+Поэтому исследователи давно ищут способы распознавать, каким пациентам требуется проводить КТ, а каким не стоит. Один из многообещающих подходов – распознать повреждение мозга благодаря кусочкам его тканей и клеток, или повреждённым сосудам.<br> <a href="https://habr.com/post/420317/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420317#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Sat, 18 Aug 2018 09:00:01 GMT</pubDate>
+      <dc:creator>SLY_G</dc:creator>
+      <category><![CDATA[Мозг]]></category><category><![CDATA[Биотехнологии]]></category>
+      <category>кровь</category><category>анализ крови</category><category>компьютерная томография</category>
+    </item>
+
+
+
+      <item>
+      <title><![CDATA[Работа IT-специалистом на Дальнем Востоке — Амурская область]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420511/</guid>
+      <link>https://habr.com/post/420511/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420511</link>
+      <description><![CDATA[Прочитав <a href="https://habr.com/post/420247/"><b>Стоит ли ехать It-специалисту на Дальний Восток</b></a> я в комментариях обещал рассказать про свою область. В данной публикации я опишу опыт поиска работы со стороны Junior’a, да и про жизнь в области в целом. Историю дополню своим жизненным опытом, так что надеюсь вам понравится.<br>
+<br>
+<div style="text-align:center;"><img src="https://habrastorage.org/webt/xh/2o/ix/xh2oixc7fhoqphq6o-h5ydcdthw.jpeg"></div> <a href="https://habr.com/post/420511/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420511#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Sat, 18 Aug 2018 07:47:23 GMT</pubDate>
+      <dc:creator>Bizonozubr</dc:creator>
+      <category><![CDATA[Учебный процесс в IT]]></category><category><![CDATA[Карьера в IT-индустрии]]></category><category><![CDATA[IT-эмиграция]]></category>
+      <category><![CDATA[карьера в it-индустрии]]></category><category><![CDATA[релокация]]></category><category><![CDATA[Благовещенск]]></category><category><![CDATA[Амурская область]]></category><category><![CDATA[грусть и печаль]]></category><category><![CDATA[безысходность и тлен]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+    <item>
+      <title><![CDATA[[Из песочницы] Анализ графиков бинарных опционов или как я в очередной раз доказал себе, что халявы не существует]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420523/</guid>
+      <link>https://habr.com/post/420523/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420523</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/cn/lc/pa/cnlcpaoyougppeoewozmennka2e.png"><br>
+<br>
+<p>Недавно я наткнулся на занимательное видео из разряда «Чтобы быстро стать богатым нужно всего лишь...». Видео начинается пафосным пересчитыванием солидной пачки денег и демонстрированием приличного счета. Далее парень показывает стратегию, которая основана на фразе «Ну вот смотрите на график, тут видно».</p><br>
+<p>Однако я человек скромный, а потому решил прежде чем пойти за своими лярдами сначала проверить данную стратегию математически и программно. Ниже вы можете посмотреть, что из этого вышло.</p> <a href="https://habr.com/post/420523/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420523#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Sat, 18 Aug 2018 07:23:59 GMT</pubDate>
+      <dc:creator>DeuS7</dc:creator>
+      <category><![CDATA[Финансы в IT]]></category><category><![CDATA[Программирование]]></category><category><![CDATA[Научно-популярное]]></category>
+      <category>javascript</category><category>графики</category><category>бинарные опционы</category><category>разоблачение</category><category>Мартингейл</category>
+    </item>
+
+
+
+
+
+      <item>
+      <title><![CDATA[[recovery mode] JS Developer Day, разные города и сообщества — один праздник]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420503/</guid>
+      <link>https://habr.com/post/420503/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420503</link>
+      <description><![CDATA[В 1995 году американский разработчик Брендан Айк создал язык JavaScript — всего за 10 дней. Может быть, поэтому его синтаксис получился сложным, а ошибки — частыми. Однако возможности JS впечатляли и впечатляют до сих пор. За 20+ лет JS оброс библиотеками, стал очень красивым и почти полностью удобным языком, на котором «говорят» тысячи разработчиков по всему миру. Чем не повод, чтобы каждый год собираться и вспоминать, как много хорошего сделал Айк? А заодно весело и с пользой проводить время?<br>
+<br>
+<img src="https://habrastorage.org/webt/u1/y5/la/u1y5lanaiqsm6qvfe72lipwsfr0.jpeg"><br> <a href="https://habr.com/post/420503/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420503#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Fri, 17 Aug 2018 16:49:26 GMT</pubDate>
+      <dc:creator>Volgafe87</dc:creator>
+      <category><![CDATA[Конференции]]></category><category><![CDATA[Дизайн]]></category><category><![CDATA[JavaScript]]></category><category><![CDATA[Блог компании EPAM]]></category>
+      <category><![CDATA[The Rolling Scopes]]></category><category><![CDATA[#rollingscopes]]></category><category><![CDATA[frontend]]></category><category><![CDATA[JavaScript]]></category><category><![CDATA[BeerJS]]></category><category><![CDATA[Web Not Bombs]]></category><category><![CDATA[UX/UI]]></category><category><![CDATA[Design Spot]]></category><category><![CDATA[It Shark Pro]]></category><category><![CDATA[#Real Platforms]]></category><category><![CDATA[#epamsec]]></category><category><![CDATA[#makeitreal]]></category><category><![CDATA[#epam25]]></category><category><![CDATA[#Real Engineering]]></category><category><![CDATA[#Real Intelligence]]></category><category><![CDATA[#Real Experience]]></category>
+    </item>
+
+
+
+
+
+
+
+  
+
+    <item>
+      <title><![CDATA[[Из песочницы] Неочевидная проблема использования assert]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420509/</guid>
+      <link>https://habr.com/post/420509/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420509</link>
+      <description><![CDATA[Unit-тесты являются важной частью любого достаточно большого проекта. Хочу поделиться с вами небольшой детективной историей, связанной с неочевидным массовым их падением.<br/>
+<br/>
+Начинается она с того, что в проекте в результате определенного безобидного коммита упало порядка 150 тестов, набор падающих тестов при этом не являлся стабильным. Тесты не были связаны между собой, выполнение тестов происходило последовательно. В качестве источника данных для тестов служит in-memory база данных h2. Падение подавляющего большинства из этих 150 тестов сопровождалось ошибкой в логе: «Cannot get a connection, pool error Timeout waiting for idle object». Следует сказать, что размер пула коннектов при выполнении тестов в проекте равен 1. <br/>
+ <a href="https://habr.com/post/420509/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420509#habracut">Читать дальше &rarr;</a>]]></description>
+      
+      <pubDate>Fri, 17 Aug 2018 17:35:03 GMT</pubDate>
+      <dc:creator>bezromantik</dc:creator>
+      <category><![CDATA[Java]]></category>
+      <category>java</category><category>junit</category><category>тесты</category><category>exception</category><category>транзакции</category><category>assert</category><category>pool error</category>
+    </item>
+
+
+
+
+
+      <item>
+      <title><![CDATA[Победит ли OpenAI Five профессиональную команду на The International]]></title>
+      <guid isPermaLink="true">https://habr.com/post/420505/</guid>
+      <link>https://habr.com/post/420505/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420505</link>
+      <description><![CDATA[<img src="https://habrastorage.org/webt/f7/cu/cc/f7cucccwxxhsut9sxztrtcf58eq.jpeg"><br>
+<br>
+Прогресс искусственного интеллекта от OpenAI в освоении Dota 2 — лучшая иллюстрация мема «вот … тогда и посмотрим». Сейчас мы находимся в месте, где ИИ уже обыграл топовых игроков один на один, научился играть командой с обычными игроками, преодолел значительные ограничения, обыграл полупрофессиональную команду.<br>
+<br>
+Следующий шаг — «вот обыграет лучшую команду в мире, тогда и посмотрим». Получится ли? Кто как считает.<br> <a href="https://habr.com/post/420505/?utm_source=habrahabr&amp;utm_medium=rss&amp;utm_campaign=420505#habracut">Читать дальше →</a>]]></description>
+      
+      <pubDate>Fri, 17 Aug 2018 18:15:22 GMT</pubDate>
+      <dc:creator>arttom</dc:creator>
+      <category><![CDATA[Киберспорт]]></category><category><![CDATA[Искусственный интеллект]]></category>
+      <category><![CDATA[OpenAI]]></category><category><![CDATA[dota 2]]></category><category><![CDATA[The International]]></category><category><![CDATA[искусственный интеллект]]></category>
+    </item>
+
+
+
+
+
+
+
+
+
+
+
+  </channel>
+</rss>
